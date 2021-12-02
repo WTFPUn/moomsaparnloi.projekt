@@ -1,0 +1,5 @@
+class = 3
+train = data/train.txt
+test = data/test.txt
+names = data/piford.names
+backup = backup/
